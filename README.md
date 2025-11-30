@@ -16,7 +16,7 @@
 
 ```bash
 # 1. 저장소 클론 (이미 받았다면 패스)
-git clone 
+git clone https://github.com/2022148084/otp-ai.git
 cd otp-ai
 
 # 2. 가상환경 생성 및 활성화 (강력 추천 - 의존성 꼬임 방지)
